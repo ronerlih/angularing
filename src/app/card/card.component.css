@@ -1,0 +1,9 @@
+.card{
+  background-color: aquamarine;
+  height: 40px;
+  color: black;
+  padding:20px;
+  border: 1px solid black;
+  font-size: 1rem;;
+  margin-top: 10px;;
+}
