@@ -1,0 +1,36 @@
+https://www.typescriptlang.org/play/index.html
+
+version:
+tsc -v
+ng -v
+
+install:
+https://www.typescriptlang.org/index.html#download-links
+https://angular.io/cli 
+
+activity 1: hello world
+- ng new my-app
+- cd [app name]
+- ng serve
+
+create card:
+ng g component [name]
+
+loop: *ngFor 
+
+componenet loop:   
+@Input() newTask: string;
+
+(click) event
+
+seo case study:
+https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84
+write about SEO in angular, specifically in SPA
+
+test
+
+/w express
+npm update -g @angular/cli
+
+ng add @nguniversal/express-engine --clientProject <NAME-OF-APPLICATION>
+npm run build:ssr && npm run serve:ssr
