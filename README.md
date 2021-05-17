@@ -3,7 +3,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Angularing - SSR
 Angular & Universal SSR box
 
-![screenshot](src/assets/screenshot.png)
+![screenshot](src/assets/screenshot2.png)
 
 
 ## Development server
